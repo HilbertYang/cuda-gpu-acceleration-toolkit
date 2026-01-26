@@ -1,0 +1,32 @@
+# OS / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Build outputs
+build/
+bin/
+obj/
+*.o
+*.obj
+*.exe
+*.dll
+*.so
+*.a
+*.lib
+*.pdb
+
+# CUDA
+*.ptx
+*.cubin
+*.fatbin
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+env/
+
+# Results (可选)
+# results/*
