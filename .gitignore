@@ -10,7 +10,6 @@ bin/
 obj/
 *.o
 *.obj
-*.exe
 *.dll
 *.so
 *.a
@@ -29,4 +28,8 @@ __pycache__/
 env/
 
 # Results (可选)
+
+
 # results/*
+
+
