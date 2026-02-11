@@ -3,7 +3,7 @@
 # Run CPU matrix multiplication benchmarks
 # ==========================================
 
-$Ns = @(256, 512, 1024, 2048)
+$Ns = @(256, 512, 1024, 2048, 4096)
 
 $exe = "..\bin\matmul_cpu.exe"
 $resultFile = "..\results\cpu_results.txt"
